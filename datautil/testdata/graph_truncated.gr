@@ -1,0 +1,6 @@
+c Test case which has been truncated, so node count is incorrect
+c
+p sp 6 9
+c
+a 1 3 4
+a 1 2 6
